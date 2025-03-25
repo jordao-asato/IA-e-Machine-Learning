@@ -1,0 +1,12 @@
+Implementar um ou mais modelos de Supervised ML para resolução de algum problema real. Sugestão de dataset: Kaggle. Apresentar a análise exploratória da base, com gráficos e com a descrição dos insights obtidos que justificam a escolha do(s) algoritmo(s) de ML usados no projeto. Descrever o(s) método(s) de validação e avaliação utilizados. Apresentar e descrever os resultados. Descrever as considerações da equipe sobre os resultados objetivos, dificuldades encontradas, trabalhos futuros e/ou sugestões de melhoria.
+
+O que deve ser entregue: códigos + paper 
+
+Estrutura do paper:
+- Formato: artigo SBC ou evento alvo 
+- Conteúdo: 
+   1. Introdução (contextualização, justificativa/problema, objetivos)
+   2. Revisão Literatura (conceitos [apenas se usarem algoritmos não vistos em aula] + trabalhos correlatos)
+   3. Desenvolvimento (descrição dos dados, análise exploratória, estratégias de treinamento/teste e demais metodologias adotadas)
+   4. Resultados e análises da equipe 
+   5. Considerações Finais
